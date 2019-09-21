@@ -292,6 +292,12 @@ p {
     .titulo {
         font-size: 30px;
     }
+    .contenido-header{
+        background-attachment: initial;
+    }
+    .separador {
+        background-attachment: initial;
+    }
 }
 @media screen and (max-width: 550px) {
     .contenido-header .fondo {
